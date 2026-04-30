@@ -898,6 +898,20 @@ fiona-1.9.5-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyVmZdu"
 fiona-1.9.5-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyTlJ1q">下载</a><br>
 fiona-1.9.5-cp39-cp39-win32.whl =><a href="https://mbd.pub/o/bread/ZpyTlJ1r">下载</a><br>
 flash_attn模块:<br>
+flash_attn-2.8.3+cu130torch2.9.1cxx11abiTRUE-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmppqaw==">下载</a><br>
+flash_attn-2.8.3+cu130torch2.9.1cxx11abiTRUE-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmppqag==">下载</a><br>
+flash_attn-2.8.3+cu130torch2.9.1cxx11abiTRUE-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmppqaQ==">下载</a><br>
+flash_attn-2.8.3+cu130torch2.9.0cxx11abiTRUE-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmpprbA==">下载</a><br>
+flash_attn-2.8.3+cu130torch2.9.0cxx11abiTRUE-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmppraw==">下载</a><br>
+flash_attn-2.8.3+cu130torch2.11.0cxx11abiTRUE-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmpprag==">下载</a><br>
+flash_attn-2.8.3+cu130torch2.10.0cxx11abiTRUE-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmppraQ==">下载</a><br>
+flash_attn-2.8.3+cu130torch2.10.0cxx11abiTRUE-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmppraA==">下载</a><br>
+flash_attn-2.8.3+cu130torch2.10.0cxx11abiTRUE-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmpprZw==">下载</a><br>
+flash_attn-2.8.2+cu130torch2.9.0cxx11abiTRUE-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmpprZg==">下载</a><br>
+flash_attn-2.8.2+cu130torch2.9.0cxx11abiTRUE-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmpprZQ==">下载</a><br>
+flash_attn-2.8.2+cu129torch2.8.0cxx11abiTRUE-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmpprZA==">下载</a><br>
+flash_attn-2.8.2+cu129torch2.8.0cxx11abiTRUE-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmppqbQ==">下载</a><br>
+flash_attn-2.8.2+cu129torch2.8.0cxx11abiTRUE-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmppqbA==">下载</a><br>
 flash_attn-2.8.3+cu128torch2.9.0cxx11abiFALSE-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWalZ5xZA==">下载</a><br>
 flash_attn-2.8.3+cu128torch2.9.0cxx11abiFALSE-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWalZ5wbQ==">下载</a><br>
 flash_attn-2.8.3+cu128torch2.9.0cxx11abiFALSE-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWalZ5yZQ==">下载</a><br>
