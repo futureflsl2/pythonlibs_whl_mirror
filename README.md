@@ -898,25 +898,25 @@ fiona-1.9.5-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyVmZdu"
 fiona-1.9.5-cp39-cp39-win_amd64.whl =><a href="https://mbd.pub/o/bread/ZpyTlJ1q">下载</a><br>
 fiona-1.9.5-cp39-cp39-win32.whl =><a href="https://mbd.pub/o/bread/ZpyTlJ1r">下载</a><br>
 flash_attn模块:<br>
-<tr><td>flash_attn-2.8.4+d20260328cu130torch2.12.0cxx11abiTRUE-cp314-cp314-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWcmp1wag==">下载</a></td></tr>
-<tr><td>flash_attn-2.8.4+d20260328cu130torch2.12.0cxx11abiTRUE-cp313-cp313-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWcmp1xZw==">下载</a></td></tr>
-<tr><td>flash_attn-2.8.4+d20260328cu130torch2.11.0cxx11abiTRUE-cp314-cp314-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWcmp1waw==">下载</a></td></tr>
-<tr><td>flash_attn-2.8.4+d20260328cu130torch2.11.0cxx11abiTRUE-cp313-cp313-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWcmp1xaA==">下载</a></td></tr>
-<tr><td>flash_attn-2.8.3+d20260120.cu130torch2.11.0cxx11abiTRUE-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWcmp1waQ==">下载</a></td></tr>
-<tr><td>flash_attn-2.8.3+cu130torch2.9.1cxx11abiTRUE-cp313-cp313-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWcmppqaw==">下载</a></td></tr>
-<tr><td>flash_attn-2.8.3+cu130torch2.9.1cxx11abiTRUE-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWcmppqag==">下载</a></td></tr>
-<tr><td>flash_attn-2.8.3+cu130torch2.9.1cxx11abiTRUE-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWcmppqaQ==">下载</a></td></tr>
-<tr><td>flash_attn-2.8.3+cu130torch2.9.0cxx11abiTRUE-cp313-cp313-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWcmpprbA==">下载</a></td></tr>
-<tr><td>flash_attn-2.8.3+cu130torch2.9.0cxx11abiTRUE-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWcmppraw==">下载</a></td></tr>
-<tr><td>flash_attn-2.8.3+cu130torch2.11.0cxx11abiTRUE-cp313-cp313-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWcmpprag==">下载</a></td></tr>
-<tr><td>flash_attn-2.8.3+cu130torch2.10.0cxx11abiTRUE-cp313-cp313-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWcmppraQ==">下载</a></td></tr>
-<tr><td>flash_attn-2.8.3+cu130torch2.10.0cxx11abiTRUE-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWcmppraA==">下载</a></td></tr>
-<tr><td>flash_attn-2.8.3+cu130torch2.10.0cxx11abiTRUE-cp311-cp311-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWcmpprZw==">下载</a></td></tr>
-<tr><td>flash_attn-2.8.3+cu129torch2.9.0cxx11abiTRUE-cp313-cp313-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWcmp1xZA==">下载</a></td></tr>
-<tr><td>flash_attn-2.8.3+cu128torch2.9.1cxx11abiTRUE-cp313-cp313-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWcmp1xZQ==">下载</a></td></tr>
-<tr><td>flash_attn-2.8.3+cu128torch2.9.0cxx11abiTRUE-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWcmp1wbA==">下载</a></td></tr>
-<tr><td>flash_attn-2.8.3+cu128torch2.8.0cxx11abiTRUE-cp312-cp312-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWcmp1wbQ==">下载</a></td></tr>
-<tr><td>flash_attn-2.8.3+cu128torch2.10.0cxx11abiTRUE-cp313-cp313-win_amd64.whl</td><td><a href="https://mbd.pub/o/bread/YZWcmp1xZg==">下载</a></td></tr>
+flash_attn-2.8.4+d20260328cu130torch2.12.0cxx11abiTRUE-cp314-cp314-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmp1wag==">下载</a><br>
+flash_attn-2.8.4+d20260328cu130torch2.12.0cxx11abiTRUE-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmp1xZw==">下载</a><br>
+flash_attn-2.8.4+d20260328cu130torch2.11.0cxx11abiTRUE-cp314-cp314-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmp1waw==">下载</a><br>
+flash_attn-2.8.4+d20260328cu130torch2.11.0cxx11abiTRUE-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmp1xaA==">下载</a><br>
+flash_attn-2.8.3+d20260120.cu130torch2.11.0cxx11abiTRUE-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmp1waQ==">下载</a><br>
+flash_attn-2.8.3+cu130torch2.9.1cxx11abiTRUE-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmppqaw==">下载</a><br>
+flash_attn-2.8.3+cu130torch2.9.1cxx11abiTRUE-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmppqag==">下载</a><br>
+flash_attn-2.8.3+cu130torch2.9.1cxx11abiTRUE-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmppqaQ==">下载</a><br>
+flash_attn-2.8.3+cu130torch2.9.0cxx11abiTRUE-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmpprbA==">下载</a><br>
+flash_attn-2.8.3+cu130torch2.9.0cxx11abiTRUE-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmppraw==">下载</a><br>
+flash_attn-2.8.3+cu130torch2.11.0cxx11abiTRUE-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmpprag==">下载</a><br>
+flash_attn-2.8.3+cu130torch2.10.0cxx11abiTRUE-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmppraQ==">下载</a><br>
+flash_attn-2.8.3+cu130torch2.10.0cxx11abiTRUE-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmppraA==">下载</a><br>
+flash_attn-2.8.3+cu130torch2.10.0cxx11abiTRUE-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmpprZw==">下载</a><br>
+flash_attn-2.8.3+cu129torch2.9.0cxx11abiTRUE-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmp1xZA==">下载</a><br>
+flash_attn-2.8.3+cu128torch2.9.1cxx11abiTRUE-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmp1xZQ==">下载</a><br>
+flash_attn-2.8.3+cu128torch2.9.0cxx11abiTRUE-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmp1wbA==">下载</a><br>
+flash_attn-2.8.3+cu128torch2.8.0cxx11abiTRUE-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmp1wbQ==">下载</a><br>
+flash_attn-2.8.3+cu128torch2.10.0cxx11abiTRUE-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmp1xZg==">下载</a><br>
 flash_attn-2.8.2+cu130torch2.9.0cxx11abiTRUE-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmpprZg==">下载</a><br>
 flash_attn-2.8.2+cu130torch2.9.0cxx11abiTRUE-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmpprZQ==">下载</a><br>
 flash_attn-2.8.2+cu129torch2.8.0cxx11abiTRUE-cp313-cp313-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZWcmpprZA==">下载</a><br>
