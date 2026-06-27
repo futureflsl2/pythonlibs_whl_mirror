@@ -1507,6 +1507,13 @@ debugpy-1.6.0-cp37-cp37m-win32.whl =><a href="https://mbd.pub/o/bread/ZpyYl51v">
 Delny-0.4.1-cp27-none-win_amd64.whl =><a href="https://mbd.pub/o/bread/Zp6Tm5Zs">下载</a><br>
 Delny-0.4.1-cp27-none-win32.whl =><a href="https://mbd.pub/o/bread/Zp6Tm5Zr">下载</a><br>
 104. deepspeed模块:<br>
+deepspeed-0.16.5-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZaTmp1tbA==">下载</a><br>
+deepspeed-0.16.5-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZaTmp1taw==">下载</a><br>
+deepspeed-0.16.5-cp312-cp312-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZaTmp1tag==">下载</a><br>
+deepspeed-0.13.1+cu121-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZaTmp1uZA==">下载</a><br>
+deepspeed-0.13.1+cu121-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZaTmp1tbQ==">下载</a><br>
+deepspeed-0.13.1+cu118-cp310-cp310-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZaTmp1tZw==">下载</a><br>
+deepspeed-0.13.1+cu118-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/YZaTmp1tZg==">下载</a><br>
 deepspeed-0.15.0-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5iZlJZv">下载</a><br>
 deepspeed-0.14.5-cp311-cp311-win_amd64.whl =><a href="https://mbd.pub/o/bread/Z5iZlJZu">下载</a><br>
 deepspeed-0.12.7+827e1ca-py3-none-any.whl =><a href="https://mbd.pub/o/bread/Z5iZlJdw">下载</a><br>
